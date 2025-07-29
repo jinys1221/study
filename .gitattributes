@@ -1,0 +1,6 @@
+Deep[[:space:]]Learning/02_CNN/03_CIFAR10_CNN/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+CIFAR10 filter=lfs diff=lfs merge=lfs -text
+Deep[[:space:]]Learning/02_CNN/03_CIFAR10_CNN/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> ecf35e0 (전체 마크다운 수정 및 통일화, 복습)
